@@ -18,7 +18,6 @@ function whileLoop(n) {
 
 function doWhileLoop(num) {
   do {
-    \\[loop body]
   } while (function incrementVariable() {
     i = i + 1;
     return i
